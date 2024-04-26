@@ -1,0 +1,1 @@
+Projeto Python, sobre um sistema de análise de coordenadas de meteoros informados pelo usuário, feito para entrega na disciplina de Algoritmos e Programação na Universidade Mackenzie, conjuntamente com Marcos Pedro Scherer.
